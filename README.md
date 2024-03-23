@@ -4,10 +4,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/mkm29/slock">
-    <img src="images/logo.png" alt="Logo" width="380" height="380">
+    <img src="media/logo.png" alt="Logo" width="380" height="380">
   </a>
 
-<h3 align="center">sLOCK</h3>
+<h3 align="center">sLock</h3>
 
   <p align="center">
     ReGENerative for Kubernetesx
